@@ -1,0 +1,19 @@
+{
+    "login": [
+        {
+            "email": "admin",
+            "password": " ",
+            "validation_text": "Wrong email"
+        },
+        {
+            "email": " ",
+            "password": "^&*",
+            "validation_text": "Please enter your email"
+        },
+        {
+            "email": "admin@yourstore.com",
+            "password": "pwd",
+            "validation_text": "Login was unsuccessful. Please correct the errors and try again."
+        }
+    ]
+}
