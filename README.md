@@ -1,2 +1,2 @@
 # playwright-jest-typescript-ui-api-tests
-Playwright jest automation 
+Playwright jest typescript automation 
